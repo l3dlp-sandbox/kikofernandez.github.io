@@ -7,7 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-## **June 2018**
+## **August 2018**
+
+* Paper submitted to EduSymp'18 has been accepted. The abstract is written below:
+
+  > An achievement-driven methodology strives to give students more control of their
+  > learning with enough  exibility to engage them in deeper learning.
+  >
+  > We observed in the course Advanced Software Design, which uses the achievement-driven methodology,
+  > that students fail to get high grades, which may hamper deeper learning.
+  > To motivate students to pursue and get higher grades we added gamication elements to the course.
+  >
+  > To measure the success of our gamication implementation, students  filled out a
+  > form rating the enjoyment and motivation produced by the game. We built a statistical
+  > regression model where enjoyment and motivation explain 55% of the variation in grades.
+  > However, only the relationship between "Motivation" and "Grade" is significant,
+  > which implies that "Motivation" drives the overall effect of the model. The results
+  > suggest that the more the students were motivated by the game, the higher their
+  > grades on the course (and vice versa). This implies that if gamication indeed motivates students, then
+  > it makes them go beyond what is expected.
+
+* Send an abstract to Partial Conf 2018.
+
+#### **July 2018**
+
+* My proposed presentation to LambdaWorld'18 Cadiz was rejected.
+
+* I submitted the gamification approach that we took during the course Advanced Software Desgin
+  to [EduSymp'18](http://www.edusymp.org/2018/). It was the first time that I have
+  worked with [Janina Hornbach](http://katalog.uu.se/profile/?id=N14-1034),
+  it was really fun and I am really happy with the result. Hopefully,
+  we will be able to carry on the future work of the paper :)
+
+  The abstract can be found below
+  (and the paper will be available once we know if it got accepted):
+
+  > An achievement-driven methodology strives to give some degree of control of the students' learning with enough flexibility to engage them in deeper learning.
+  >
+  > We observed that, in the course Advanced Software Design, students fail to get high grades and, in turn, deeper learning.
+  > To motivate students to pursue and get higher grades we added gamification elements to the course.
+  >
+  > To measure the success of our gamification implementation,
+  > students filled out a form rating the enjoyment and motivation produced by the game.
+  > We built a statistical regression model where enjoyment and motivation explain 55\% of the variation in grades.
+  > However, only the relationship between "Motivation" and "Grade" is significant, which implies that "Motivation" drives the overall effect of the model.
+  > The results suggest that the more the students were motivated by the game, the higher their grades on the course.
+  > This implies that gamification indeed motivates students and makes students go beyond what is expected.
+
+#### **June 2018**
+
+* I had a meeting with Anna Eckerdal and got feedback on an educational paper
+that uses an opt-in gamification approach. <!--                                            If we manage to submit to [EduSymp](http://www.edusymp.org/2018/), -->
+<!-- [MINT](http://mint.uu.se/) (scholarships and grants managed by Anna Eckerdal) -->
+<!-- could give me a grant to cover the symposium and travel costs. -->
 
 * Our team ([Dave Clarke](https://www.it.uu.se/katalog/davcl820),
   [Elias Castegren](https://www.it.uu.se/katalog/elica697),
