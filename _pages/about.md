@@ -9,7 +9,7 @@ redirect_from:
 
 ## September
 
-* Launch the book ICO for "GRASP principles for the Object-oriented mind"
+* Launched the book ICO for "GRASP principles for the Object-oriented mind"
 
 * Talk submitted to PartialConf has been accepted. The abstract is written below:
 
