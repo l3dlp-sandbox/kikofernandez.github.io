@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kiko Fernandez-Reyes"
   avatar           : "kiko_pfc.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in programming languages and main lecturer of the course Advanced Software Design at Uppsala University. Core developer of the Encore programming language."
   location         : "Uppsala"
   employer         :
   googlescholar    : "https://scholar.google.se/citations?user=IS2ax-kAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kikofernandezreyes/"
   orcid            : "http://orcid.org/0000-0001-8654-118X"
   pinterest        :
   soundcloud       :
