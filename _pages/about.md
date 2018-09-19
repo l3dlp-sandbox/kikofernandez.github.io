@@ -7,6 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+## September
+
+* Launch the book ICO for "GRASP principles for the Object-oriented mind"
+
+* Talk submitted to PartialConf has been accepted. The abstract is written below:
+
+  > Building a compiler: it is all about monads
+  >
+  > Writing compilers is a difficult task and consists of
+  > semantics-preserving transformations, from one phase
+  > of the compiler to the next, until the compiler outputs the target code.
+  >
+  > Monads can help compiler-writers to create a clean design.
+  > For example, the Encore compiler
+  > uses a type checking monad, which is made up of the Reader, Error and State monads.
+  >
+  > This talks shows why monads make your code cleaner and why you would want
+  > to use these three basic monads.
+
 ## **August 2018**
 
 * Paper submitted to EduSymp'18 has been accepted. The abstract is written below:

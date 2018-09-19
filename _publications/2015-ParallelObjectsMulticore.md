@@ -3,7 +3,7 @@ title: "Parallel Objects for Multicores: A Glimpse at the Parallel Language Enco
 collection: publications
 permalink: /publication/Parallel-Objects-for-Multicores
 date: 2015-05-15
-venue: SFM 2015: Formal Methods for Multicore Programming
+venue: 'SFM 2015: Formal Methods for Multicore Programming'
 paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-319-39519-7_7'
 ---
 
