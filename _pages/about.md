@@ -7,9 +7,26 @@ redirect_from:
   - /about.html
 ---
 
+## October
+
+* I presented the paper
+  "The impact of opt-in gamification on students' grades in a software design course".
+  ([link to pre-print](https://www.researchgate.net/publication/328115773_The_impact_of_opt-in_gamification_on_students'_grades_in_a_software_design_course))
+
+  Abstract:
+
+  > An achievement-driven methodology strives to give students more control of their learning with enough flexibility to engage them in deeper learning. We observed in the course Advanced Software Design, which uses the achievement-driven methodology, that students fail to get high grades, which may hamper deeper learning. To motivate students to pursue and get higher grades we added gamification elements to the course. To measure the success of our gamification implementation, students filled out a questionaire rating the enjoyment and motivation produced by the game. We built a statistical regression model where enjoyment and motivation explain 55% of the variation in grades. However, only the relationship between motivation and grade is significant, which implies that notivation drives the overall effect of the model. The results suggest that the more the students were motivated by the game, the higher their grades on the course (and vice versa). This implies that if gamification indeed motivates students, then it makes them go beyond what is expected.
+
+* Meeting with Ludovic Henrio, Einar B. Johnsen, Dave Clarke and Tobias Wrigstad
+  to discuss the difference between control-flow futures and data-flow futures,
+  which was identified by Ludovic Henrio. At the end of the meeting, we are going
+  to join efforts to highlight the difference between these futures and constructs
+  to allow these futures to co-exist together. We will possibly produce an implementation
+  in the Encore language.
+
 ## September
 
-* Launched the book ICO for "GRASP principles for the Object-oriented mind"
+* ~~Launched the book ICO for "GRASP principles for the Object-oriented mind"~~
 
 * Talk submitted to PartialConf has been accepted. The abstract is written below:
 
