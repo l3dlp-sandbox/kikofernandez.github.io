@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kikofernandez
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kikofernandez.github.io
+  * I am kikofernandez (https://keybase.io/kikofernandez) on keybase.
+  * I have a public key ASDGencYx46AwAQce3kqbfM4mYVSH9Ab22nGBe3zq1u4rgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d22869d6e01c1d699fdde8cc94e4b7b5a3ab4b0199766f3b87b872ce3f1eb1c20a",
+      "host": "keybase.io",
+      "kid": "0120c67a7718c78e80c0041c7b792a6df3389985521fd01bdb69c605edf3ab5bb8ae0a",
+      "uid": "7c19309c4f21f5f35f8079803069d619",
+      "username": "kikofernandez"
+    },
+    "merkle_root": {
+      "ctime": 1541969259,
+      "hash": "56093994bece714ef16791e2e081e889321e3fe3b1465ced6c00176af237add84de28bbc896f00e7134d9e7a682240b5a7d59785370e4b242f88dc0721a0411f",
+      "hash_meta": "46bc06b95fcfcf0b73423e01543d9e4bfd6fe9c2e675baa88cb758c25996f031",
+      "seqno": 3935606
+    },
+    "service": {
+      "entropy": "l9h0KR9kqn74r5vDBOxcTHQ9",
+      "hostname": "kikofernandez.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541969288,
+  "expire_in": 504576000,
+  "prev": "8a11532a463401158a1b49dfad53bcdf1f36d292488ae78ae18bd6e6065a644b",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxnp3GMeOgMAEHHt5Km3zOJmFUh/QG9tpxgXt86tbuK4Kp3BheWxvYWTESpcCCcQgihFTKkY0ARWKG0nfrVO83x820pJIiueK4YvW5gZaZEvEIHMvcPJDoZzRN2wmHjdumGfXDuq7Lj2DITNbNhYSIAnLAgHCo3NpZ8RANxAdsbrbUYOnS9s+J8bwfKqcPuDPBf6Bx8uCeEe2aYsvTXl/m39lVoorPt07IqjdfPOmmJzCogVbGySQN+MiBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHOOstK4DWpyQ+CFUgnvGtTSyryWv3wHb0cw0EMcl4nfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kikofernandez
+
+==================================================================
