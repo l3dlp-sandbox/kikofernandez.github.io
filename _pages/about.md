@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-## October
+## **November 2018**
+
+* I presented "Building a compiler: It is all about monads!" at
+  [@PartialConf](http://partialconf.com/lineup#kiko-fernandez), where I explain
+  how one can create a typechecker with a clean design using monads and monads
+  transformers.
+
+## **October 2018**
 
 * I presented the paper
   "The impact of opt-in gamification on students' grades in a software design course".
@@ -24,7 +31,7 @@ redirect_from:
   to allow these futures to co-exist together. We will possibly produce an implementation
   in the Encore language.
 
-## September
+## **September 2018**
 
 * ~~Launched the book ICO for "GRASP principles for the Object-oriented mind"~~
 
