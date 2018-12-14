@@ -1,9 +1,9 @@
-2---
+---
 title: "Attached and detached closures in actors"
 collection: publications
 permalink: /publication/attached-and-detached-closures
 date: 2018-11-05
-venue: 'AGERE 2018 Proceedings of the 8th ACM SIGPLAN International Workshop on Programming Based on Actors, Agents, and Decentralized Control'
+venue: AGERE'18
 paperurl: 'https://dl.acm.org/citation.cfm?id=3281371'
 ---
 
