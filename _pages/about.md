@@ -7,6 +7,41 @@ redirect_from:
   - /about.html
 ---
 
+## **January 2019**
+
+* We submitted to ECOOP'19 the paper with title "Godot: All the Benefits of
+  Implicit and Explicit Futures". The abstract of the paper reads as follows:
+
+  > Godot: All the Benefits of Implicit and Explicit Futures
+  >
+  > Concurrent programs often make use of future,
+  > which are handles to the results of asynchronous operations.
+  >  Futures provide an instantly available means to communicate not yet
+  >  computed results, and simplify the implementation of operations that
+  >  must synchronise on the result of such
+  >  asynchronous operations. Futures can be characterised as either
+  >    implicit or explicit, depending on the typing discipline used to
+  >    type them.
+  >
+  >  Existing approaches to implementing futures suffer from ``future proliferation'',
+  >  either at the type-level or at run-time. The former
+  >  manifests itself through the addition of future type wrappers
+  > which expose the client to the
+  > asynchronous message indirections of an implementation and hinders
+  > subtype polymorphism. The latter manifests itself through increased
+  > latency, by traversing
+  >  nested future structures at run-time.
+  >  Many languages suffer both kinds.
+  >
+  >  Previous work offer partial solutions to these problems of
+  >    future proliferation; in this paper we show how these solutions can be
+  >    integrated
+  >  in an elegant and coherent way which is more expressive than either
+  >  system in isolation. We describe our proposal formally, and state
+  >  and prove its key properties, in two related calculi, based on the two possible families of future constructs (data-flow futures and control-flow futures). The former relies on static type information to avoid
+  >  unwanted future creation and the latter uses an algebraic data type
+  >  with dynamic checks. We also discuss how to implement our new system efficiently.
+
 ## **November 2018**
 
 * I presented "Building a compiler: It is all about monads!" at
