@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 ## **January 2019**
 
 * We submitted to ECOOP'19 the paper with title "Godot: All the Benefits of
@@ -41,6 +42,7 @@ redirect_from:
   >  and prove its key properties, in two related calculi, based on the two possible families of future constructs (data-flow futures and control-flow futures). The former relies on static type information to avoid
   >  unwanted future creation and the latter uses an algebraic data type
   >  with dynamic checks. We also discuss how to implement our new system efficiently.
+-->
 
 ## **November 2018**
 
