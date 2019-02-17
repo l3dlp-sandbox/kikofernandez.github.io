@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: News
 author_profile: true
 redirect_from:
