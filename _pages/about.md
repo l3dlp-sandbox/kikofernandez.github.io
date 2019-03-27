@@ -69,7 +69,7 @@ to promote gender equality.
 - **Conference Volunteer Work.** I am currently serving as publicity chair for
   the DisCoTec conferences (http://www.discotec.org/2019/#organising-committee).
 
-– **Advocating for Privacy.** I am part of a student chapter in Uppsala that
+- **Advocating for Privacy.** I am part of a student chapter in Uppsala that
 promotes privacy and security technologies, ranging from topics such as email
 encryption to how to surf the web safely.
 
