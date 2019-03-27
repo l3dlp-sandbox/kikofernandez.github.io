@@ -44,6 +44,35 @@ redirect_from:
   >  with dynamic checks. We also discuss how to implement our new system efficiently.
 -->
 
+## **March 2019**
+
+* I gave a seminar about the gamification methodology and design used for the
+  course Advanced Software Design, at the Physics deparment.
+
+* As vice-secretary of ACM-W UU, after a meeting with the CTO of ID24, ID24
+  decided to issue a scholarship for 30_000 SEK, for a female student doing web
+  research / programming, to attend to a top-conference.
+
+## **February 2019**
+
+* I have been invited to give a teaching seminar, at the Physics
+  department, about the gamification approach that we took for the course
+  Advanced Software Design.
+
+* The article that I co-author with Lisa Passing has been accepted into DZone.
+  This is not academic article, but it is about getting back control of your
+  privacy when sending emails. [Read the article
+  here](https://dzone.com/articles/keep-your-privacy-and-start-encrypting-your-emails)
+
+* I applied to the [Ahlberg
+  scholarship](http://www.uu.se/en/findscholarships/scholarship/?id=113), to get
+  funds to visit Victoria University, Wellington.
+
+## **January 2019**
+
+* We submitted to ECOOP'19. Title and details about the paper are omitted until
+  the Author notification (Apr 2, 2019).
+
 ## **November 2018**
 
 * I presented "Building a compiler: It is all about monads!" at
