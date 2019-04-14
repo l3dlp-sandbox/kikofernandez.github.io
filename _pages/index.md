@@ -4,11 +4,12 @@ title: News
 author_profile: true
 ---
 
-<!--
-## **January 2019**
+## **April 2019**
 
-* We submitted to ECOOP'19 the paper with title "Godot: All the Benefits of
-  Implicit and Explicit Futures". The abstract of the paper reads as follows:
+* I will be part of the organising committee of SPLASH'19, as Student Volunteer co-chair.
+
+* Our paper "Godot: All the Benefits of
+  Implicit and Explicit Futures" was accepted at ECOOP'19. The abstract of the paper reads as follows:
 
   > Godot: All the Benefits of Implicit and Explicit Futures
   >
@@ -39,7 +40,6 @@ author_profile: true
   >  and prove its key properties, in two related calculi, based on the two possible families of future constructs (data-flow futures and control-flow futures). The former relies on static type information to avoid
   >  unwanted future creation and the latter uses an algebraic data type
   >  with dynamic checks. We also discuss how to implement our new system efficiently.
--->
 
 ## **March 2019**
 
