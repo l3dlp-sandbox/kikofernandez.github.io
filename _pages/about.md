@@ -23,7 +23,7 @@ of conferences within DisCoTec in the year 2018 (http://www.it.uu.se/about
 us/awards).
 
 - **Scholarly Output.** In my 4 years of study since joining
-Uppsala University, I have 5 publications that range from recognised conferences
+Uppsala University, I have 7 publications that range from recognised conferences
 in my field, to journals and an educational symposium on the design of a
 software design course. I also have publications which are not co-authored by my
 adviser.
@@ -67,7 +67,8 @@ international speakers and researchers to promote gender equality
 to promote gender equality.
 
 - **Conference Volunteer Work.** I am currently serving as publicity chair for
-  the DisCoTec conferences (http://www.discotec.org/2019/#organising-committee).
+  the DisCoTec conferences (http://www.discotec.org/2019/#organising-committee) and
+  Student Volunteering co-chair at SPLASH'19.
 
 - **Advocating for Privacy.** I am part of a student chapter in Uppsala that
 promotes privacy and security technologies, ranging from topics such as email
@@ -76,9 +77,10 @@ encryption to how to surf the web safely.
 ### Other
 
 - **Promotion of Open Source Technology.** I write articles at opensource.com
-  (https://opensource.com/users/kikofernandez). These articles are always posted
-  also in different student channels to promote open source technology among
-  students at Uppsala University.
+  (https://opensource.com/users/kikofernandez) and
+  [DZone](https://dzone.com/articles/keep-your-privacy-and-start-encrypting-your-emails). These
+  articles are always posted also in different student channels to promote open
+  source technology among students at Uppsala University.
 
 - **Bridging the Gap between Industry and Academia.** As part of promoting the
 open source technologies, I was accepted to an industry conference,
