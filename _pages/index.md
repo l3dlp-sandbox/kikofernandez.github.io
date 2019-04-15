@@ -6,6 +6,10 @@ author_profile: true
 
 ## **April 2019**
 
+* I will supervise Joy van den Eijkhof's thesis, who will
+  be working on the implementation of for-comprehensions a là Scala (with a twist)
+  for the concurrent and parallel Encore language.
+
 * I will be part of the organising committee of SPLASH'19, as Student Volunteer co-chair.
 
 * Our paper "Godot: All the Benefits of

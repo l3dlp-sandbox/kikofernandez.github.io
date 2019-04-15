@@ -44,7 +44,7 @@ took on the course, to a mean of 3.9 (and median of 4.0).
 2017/18, I introduced a gamification element in the ASD course. This led to a
 didactic publication outside of my main research area and was done in
 collaboration with the department of Business Studies. The work was published at
-EduSymp'18 Symposium (https://dl.acm.org/citation.cfm?doid=3270112.3270118).
+[EduSymp'18 Symposium](https://dl.acm.org/citation.cfm?doid=3270112.3270118).
 
 - **International Visibility for Teaching at Uppsala.** Following the acceptance of
 the EduSymp'18 article, I was awarded a MINT (Centrum för ÄmnesdidaktiskForskning inom
@@ -57,18 +57,18 @@ to attend the conference and present the work to an international community
 My community service expands to areas wider than my research and can have an important societal value, if not at
  least at the student level.
 
-- **Promotion of Gender Equality.** I have been the vice-chair of the ACM-W
-student chapter at Uppsala University for the last 3 years, promoting gender
-equality. As part of this activity, we successfully got a 6000 $ grant from
-Microsoft, to continue promoting gender equality at Uppsala University. This led
-to the organisation of the Ada Lovelace celebration in 2017, where we brought
-international speakers and researchers to promote gender equality
-(http://uu.acm.org). We also successfully got a 30 000 SEK scholarship from ID24
-to promote gender equality.
+- **Promotion of Gender Equality.** I have been the [vice-chair of the ACM-W
+student chapter at Uppsala University](http://uu.acm.org) for the last 3 years,
+promoting gender equality. As part of this activity, we successfully got a 6 000
+$ grant from Microsoft, to continue promoting gender equality at Uppsala
+University. This led to the organisation of the Ada Lovelace celebration in
+2017, where we brought international speakers and researchers to promote gender
+equality. We also successfully got a 30 000 SEK scholarship from ID24 to promote
+gender equality.
 
 - **Conference Volunteer Work.** I am currently serving as publicity chair for
-  the DisCoTec conferences (http://www.discotec.org/2019/#organising-committee) and
-  Student Volunteering co-chair at SPLASH'19.
+  the [DisCoTec conferences](http://www.discotec.org/2019/#organising-committee) and
+  [Student Volunteering co-chair at SPLASH'19](https://2019.splashcon.org/committee/splash-2019-organizing-committee).
 
 - **Advocating for Privacy.** I am part of a student chapter in Uppsala that
 promotes privacy and security technologies, ranging from topics such as email
@@ -76,8 +76,8 @@ encryption to how to surf the web safely.
 
 ### Other
 
-- **Promotion of Open Source Technology.** I write articles at opensource.com
-  (https://opensource.com/users/kikofernandez) and
+- **Promotion of Open Source Technology.** I write articles at
+  [opensource.com](https://opensource.com/users/kikofernandez) and
   [DZone](https://dzone.com/articles/keep-your-privacy-and-start-encrypting-your-emails). These
   articles are always posted also in different student channels to promote open
   source technology among students at Uppsala University.
@@ -85,5 +85,5 @@ encryption to how to surf the web safely.
 - **Bridging the Gap between Industry and Academia.** As part of promoting the
 open source technologies, I was accepted to an industry conference,
 PartialConf’18, where I explained how we have built the open source compiler for
-the language Encore, developed at Uppsala University (Partial’18 in Sofia,
-http://partialconf.com/lineup#kiko-fernandez).
+the language Encore, developed at Uppsala University ([Partial’18 in
+Sofia](http://partialconf.com/lineup#kiko-fernandez)).
