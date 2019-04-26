@@ -6,6 +6,33 @@ author_profile: true
 
 ## **April 2019**
 
+* Under the ACM-UU student chapter, we organised a privacy-related talk with
+  Amelia Andersdotter. The call for participation is here:
+
+  > Do you want to find out about current EU laws on data protection and privacy?
+  > Do you want to discuss how to minimize your digital footprint?  Then come to the
+  > next CryptoParty!
+  >
+  > What:  CryptoParty [0] with ACM-W, guest speaker Amelia Andersdotter
+  > When:  Friday Apr 26th, 16:00–18:00
+  > Where: Ångström library
+  > Who:   Everyone, no prior knowledge required
+  >
+  > This time in collaboration with the ACM-W student chapter we have
+  > invited Amelia Andersdotter, a member of the Swedish Pirate Party and
+  > former member of the European Parliament. She will talk about data
+  > protection laws.
+  >
+  > Title: Rights are not important if you don't use them
+  > Abstract: There is a new EU data protection legislation, GDPR, that
+  > asserts giving new protections to individuals. But is the legal
+  > framework enough to protect individuals? How do you actually make use of
+  > your data protection rights? Amelia Andersdotter will suggest some
+  > practical methods to protect personal data in spite of powerful
+  > companies and governments.
+
+* Our submission to ICFP got rejected.
+
 * I will supervise Joy van den Eijkhof's thesis, who will
   be working on the implementation of for-comprehensions a là Scala (with a twist)
   for the concurrent and parallel Encore language.
