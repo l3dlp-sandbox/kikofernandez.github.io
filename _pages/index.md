@@ -14,8 +14,11 @@ author_profile: true
   > next CryptoParty!
   >
   > What:  CryptoParty [0] with ACM-W, guest speaker Amelia Andersdotter
+  >
   > When:  Friday Apr 26th, 16:00–18:00
+  >
   > Where: Ångström library
+  >
   > Who:   Everyone, no prior knowledge required
   >
   > This time in collaboration with the ACM-W student chapter we have
@@ -24,6 +27,7 @@ author_profile: true
   > protection laws.
   >
   > Title: Rights are not important if you don't use them
+  >
   > Abstract: There is a new EU data protection legislation, GDPR, that
   > asserts giving new protections to individuals. But is the legal
   > framework enough to protect individuals? How do you actually make use of
