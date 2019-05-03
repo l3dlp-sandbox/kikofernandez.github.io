@@ -4,6 +4,10 @@ title: News
 author_profile: true
 ---
 
+## **May 2019**
+
+* I will present our accepted ECOOP paper at the ABS workshop (Amsterdam) on May 14.
+
 ## **April 2019**
 
 * Under the ACM-UU student chapter, we organised a privacy-related talk with
@@ -35,13 +39,13 @@ author_profile: true
   > practical methods to protect personal data in spite of powerful
   > companies and governments.
 
-* Our submission to ICFP got rejected.
+* Our submission to ICFP was rejected. We got really useful feedback to improve it.
 
 * I will supervise Joy van den Eijkhof's thesis, who will
   be working on the implementation of for-comprehensions a là Scala (with a twist)
   for the concurrent and parallel Encore language.
 
-* I will be part of the organising committee of SPLASH'19, as Student Volunteer co-chair.
+* I will be part of the [organising committee of SPLASH'19, as Student Volunteer co-chair](https://2019.splashcon.org/profile/kikofernandezreyes).
 
 * Our paper "Godot: All the Benefits of
   Implicit and Explicit Futures" was accepted at ECOOP'19. The abstract of the paper reads as follows:

@@ -6,6 +6,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Community Service"
+    url: /community/
+
   - title: "Publications"
     url: /publications/
 
