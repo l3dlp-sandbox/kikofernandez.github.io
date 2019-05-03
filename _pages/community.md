@@ -18,6 +18,11 @@ social level.
 - [Collaboration across faculties (IT department and Business Studies)](https://dl.acm.org/citation.cfm?doid=3270112.3270118).
 - [Publication of gamification course design approach for an Advanced course](https://dl.acm.org/citation.cfm?doid=3270112.3270118).
 - Presentation of gamification approach to Physics department.
+- Supervisor of bachelor thesis:
+  - Micael Loberg, on *Encoding of Algebraic Data Types in Encore*
+  - [David Escher, on *Parallel Performance Comparison between Encore and OpenMP using Pedestrian Simulation*](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-333026)
+  - Alexis Remmers, *Enhancing functionality with assistive error visualisations in Encore*
+  - Joy van den Eijkhof, *For-Comprehension: An Encore Story*
 
 ## **Social Community**
 
