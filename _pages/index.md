@@ -6,6 +6,8 @@ author_profile: true
 
 ## **May 2019**
 
+* I am a member of the [programme committee of the AGERE'19 workshop, co-located with SPLASH](https://2019.splashcon.org/home/agere-2019)
+
 * I will present our accepted ECOOP paper at the ABS workshop (Amsterdam) on May 14.
 
 ## **April 2019**
