@@ -6,9 +6,11 @@ author_profile: true
 
 ## **May 2019**
 
+* [Elias Castegren](http://eliasc.github.io/) and I submitted an experience report to [PPDP'19](http://ppdp2019.macs.hw.ac.uk/).
+
 * I am a member of the [programme committee of the AGERE'19 workshop, co-located with SPLASH](https://2019.splashcon.org/home/agere-2019)
 
-* I will present our accepted ECOOP paper at the ABS workshop (Amsterdam) on May 14.
+* I presented our [accepted ECOOP'19 paper](https://2019.ecoop.org/event/ecoop-2019-papers-godot-all-the-benefits-of-implicit-and-explicit-futures) at the ABS workshop (Amsterdam, May 14).
 
 ## **April 2019**
 
