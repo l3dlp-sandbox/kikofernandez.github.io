@@ -9,6 +9,7 @@ social level.
 
 ## **Research Community**
 
+- [Programme Committee of the AGERE'19 workshop, co-located with SPLASH](https://2019.splashcon.org/home/agere-2019)
 - [Publicity chair of DisCoTec 2019](http://www.discotec.org/2019/#organising-committee).
 - [Student Volunteer chair of SPLASH 2019](https://2019.splashcon.org/profile/kikofernandezreyes).
 
