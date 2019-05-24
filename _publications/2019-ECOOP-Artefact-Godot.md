@@ -4,10 +4,8 @@ collection: publications
 permalink: /publication/ecoop-artefact-godot
 date: 2019-07-18
 venue: ECOOP'19
-paperurl: ''
+paperurl: 'https://github.com/kikofernandez/ecoop-artefact-godot'
 ---
-
-# Abstract
 
 This artifact contains an implementation of data-flow futures in terms of
 control-flow futures, in the Scala language. In the implementation, we show
