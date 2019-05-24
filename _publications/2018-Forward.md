@@ -3,7 +3,7 @@ title: "Forward to a Promising Future"
 collection: publications
 permalink: /publication/COORDINATION-2018-Forward-To-A-Promising-Future
 date: 2018-06-21
-venue: COORDINATION'18
+venue: COORDINATION
 paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-319-92408-3_7'
 ---
 

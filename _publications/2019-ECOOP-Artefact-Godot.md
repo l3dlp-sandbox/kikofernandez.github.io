@@ -3,7 +3,7 @@ title: "Godot: All the Benefits of Implicit and Explicit Futures (Artefact)"
 collection: publications
 permalink: /publication/ecoop-artefact-godot
 date: 2019-07-18
-venue: ECOOP'19
+venue: ECOOP
 paperurl: 'https://github.com/kikofernandez/ecoop-artefact-godot'
 ---
 

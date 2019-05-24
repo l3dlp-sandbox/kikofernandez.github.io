@@ -3,7 +3,7 @@ title: "Attached and detached closures in actors"
 collection: publications
 permalink: /publication/attached-and-detached-closures
 date: 2018-11-05
-venue: AGERE'18
+venue: AGERE
 paperurl: 'https://dl.acm.org/citation.cfm?id=3281371'
 ---
 

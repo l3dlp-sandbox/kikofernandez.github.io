@@ -3,7 +3,7 @@ title: "The impact of opt-in gamification on students' grades in a software desi
 collection: publications
 permalink: /publication/Opt-in-Gamification
 date: 2018-10-14
-venue: EduSymp'18
+venue: EduSymp
 paperurl: 'https://dl.acm.org/citation.cfm?id=3270118'
 ---
 
