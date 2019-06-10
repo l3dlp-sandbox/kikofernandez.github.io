@@ -9,6 +9,10 @@ author_profile: true
 * The Artefact Evaluation Committee for ECOOP accepted our paper artefact for
   ``Godot: All the Benefits of Implicit and Explicit Futures'' [link](https://2019.ecoop.org/track/ecoop-2019-artifacts).
 
+* I will be presenting our [ECOOP
+  paper](https://2019.ecoop.org/event/ecoop-2019-papers-godot-all-the-benefits-of-implicit-and-explicit-futures)
+  at the Programming Language Research Meetup @ Oracle, June 12, 2019, Stockholm, Sweden.
+
 ## **May 2019**
 
 * [Elias Castegren](http://eliasc.github.io/) and I submitted an experience report to [PPDP'19.](http://ppdp2019.macs.hw.ac.uk/).
