@@ -4,13 +4,18 @@ title: News
 author_profile: true
 ---
 
+## **June 2019**
+
+* The Artefact Evaluation Committee for ECOOP accepted our paper artefact for
+  ``Godot: All the Benefits of Implicit and Explicit Futures'' [link](https://2019.ecoop.org/track/ecoop-2019-artifacts).
+
 ## **May 2019**
 
-* [Elias Castegren](http://eliasc.github.io/) and I submitted an experience report to [PPDP'19](http://ppdp2019.macs.hw.ac.uk/).
+* [Elias Castegren](http://eliasc.github.io/) and I submitted an experience report to [PPDP'19.](http://ppdp2019.macs.hw.ac.uk/).
 
-* I am a member of the [programme committee of the AGERE'19 workshop, co-located with SPLASH](https://2019.splashcon.org/home/agere-2019)
+* I am a member of the [programme committee of the AGERE'19 workshop, co-located with SPLASH.](https://2019.splashcon.org/home/agere-2019)
 
-* I presented our [accepted ECOOP'19 paper](https://2019.ecoop.org/event/ecoop-2019-papers-godot-all-the-benefits-of-implicit-and-explicit-futures) at the ABS workshop (Amsterdam, May 14).
+* I presented our [accepted ECOOP'19 paper.](https://2019.ecoop.org/event/ecoop-2019-papers-godot-all-the-benefits-of-implicit-and-explicit-futures) at the ABS workshop (Amsterdam, May 14).
 
 ## **April 2019**
 
