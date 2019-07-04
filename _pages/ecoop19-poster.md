@@ -9,6 +9,10 @@ author_profile: true
 
 In-depth explanation, do not miss it if you could not attend my presentation at ECOOP :)
 
-<embed src="files/FinalposterPortrait.pdf" height="320px" />
+### Poster
+
+<embed src="files/FinalposterPortrait.pdf" type="application/pdf" width="200px" height="320px" />
+
+### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lODcqlx9vKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
