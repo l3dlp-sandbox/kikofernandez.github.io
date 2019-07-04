@@ -11,7 +11,7 @@ In-depth explanation, do not miss it if you could not attend my presentation at 
 
 ### Poster
 
-<embed src="files/FinalposterPortrait.pdf" type="application/pdf" width="200px" height="320px" />
+<embed src="files/FinalposterPortrait.pdf" type="application/pdf" width="400px" height="550px" style="width=400px; height=550px"/>
 
 ### Video
 
