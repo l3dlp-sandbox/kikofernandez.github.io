@@ -11,7 +11,7 @@ author_profile: true
 
   <img src="/files/ECOOPAward.jpg" style="width: 40%;" />
 
-* We presented our [ECOOP Poster](/files/FinalposterPortrait.png).
+* We presented our [ECOOP Poster](/files/FinalposterPortrait.pdf).
 
 ## **June 2019**
 
