@@ -7,9 +7,11 @@ author_profile: true
 ## **July 2019**
 
 * Our ECOOP'19 paper, [Godot: All the Benefits of Implicit and Explicit Futures](https://2019.ecoop.org/track/ecoop-2019-artifacts)
-  received the Distinguised Artefact Award.
+  received the Distinguished Artefact Award.
 
   <img src="/files/ECOOPAward.jpg" style="width: 40%;" />
+
+* We presented our ![ECOOP Poster](/files/FinalposterPortrait.png).
 
 ## **June 2019**
 
