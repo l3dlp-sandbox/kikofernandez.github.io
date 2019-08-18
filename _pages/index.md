@@ -4,6 +4,17 @@ title: News
 author_profile: true
 ---
 
+## **August 2019**
+
+* I am visiting [James Noble](https://ecs.victoria.ac.nz/Main/JamesNoble) and
+  his research group at Victoria University of Wellington from August until end
+  of September.
+
+* Paper accepted at [International Conference on Software Language Engineering
+  (SLE)](https://conf.researchr.org/home/sle-2019#About):
+  *Developing a Monadic Type Checker for an Object-Oriented Language
+  (Experience Report)* by [Elias Castegren](https://eliasc.github.io/) and myself.
+
 ## **July 2019**
 
 * Our ECOOP'19 paper, [Godot: All the Benefits of Implicit and Explicit Futures](https://2019.ecoop.org/track/ecoop-2019-artifacts)
