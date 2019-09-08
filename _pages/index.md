@@ -4,6 +4,18 @@ title: News
 author_profile: true
 ---
 
+## **September 2019**
+
+* Our paper "Run, Actor, Run: Towards Cross-Actor Language Benchmarking" has
+been ccepted at the Workshop on Programming based on Actors, Agents, and
+Decentralized Control (AGERE!). In this paper, we investigate runtime
+performance of the Savina benchmarks, and investigate how many programs have
+similar runtime characteristics, and/or that their runtime behaviour may
+drastically change nature (e.g.,go from essentially sequential to parallel) by
+tweaking some parameters. This observation lead us to propose a single benchmark
+program which we designed so that through tweaking of some knobs (we hope) we
+can simulate most of the programs of the Savina suite.
+
 ## **August 2019**
 
 * I am visiting [James Noble](https://ecs.victoria.ac.nz/Main/JamesNoble) and
