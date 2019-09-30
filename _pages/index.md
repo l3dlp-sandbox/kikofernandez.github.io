@@ -4,6 +4,14 @@ title: News
 author_profile: true
 ---
 
+## **October 2019**
+
+* As part of my research visit at Victoria University of New Zealand, we have
+started a collaboration with researchers from Victoria University, James Noble
+and Isaac O. Gariano.  This collaboration will extend the work from our [VMIL
+paper](https://arxiv.org/abs/1909.01465), where we are exploring how to add
+gradual reference capabilities to an untyped language.
+
 ## **September 2019**
 
 * Our paper "Run, Actor, Run: Towards Cross-Actor Language Benchmarking" has
