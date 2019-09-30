@@ -7,7 +7,7 @@ author_profile: true
 ## **September 2019**
 
 * Our paper "Run, Actor, Run: Towards Cross-Actor Language Benchmarking" has
-been ccepted at the Workshop on Programming based on Actors, Agents, and
+been accepted at the Workshop on Programming based on Actors, Agents, and
 Decentralized Control (AGERE!). In this paper, we investigate runtime
 performance of the Savina benchmarks, and investigate how many programs have
 similar runtime characteristics, and/or that their runtime behaviour may
@@ -16,13 +16,31 @@ tweaking some parameters. This observation lead us to propose a single benchmark
 program which we designed so that through tweaking of some knobs (we hope) we
 can simulate most of the programs of the Savina suite.
 
+* Our paper ["Towards Gradual Checking of Reference Capabilities"](https://arxiv.org/abs/1909.01465)
+(work-in-progress) has been accepted at the [Virtual Machines and Intermediate
+Languages Workshop
+(VMIL)](https://2019.splashcon.org/home/vmil-2019#event-overview). In this
+paper, we propose to mix the ideas from the reference capability literature with
+gradual typing, leading to gradual reference capabilities.
+
+* Our artefact "Developing a Monadic Type Checker for an Object-Oriented
+Language" has been accepted at the [International Conference on Software
+Language Engineering (SLE)](https://conf.researchr.org/home/sle-2019#About). In
+this artefact, you can find the multiple iterations of the monadic type checker
+from the paper. All the functions are documented, and the artefact guides the
+reader through the code. The type checker can be tested interactively from a
+REPL, and we include examples of different programs and how to type check them
+using different versions of the type checker, and their expected result. (**Link
+coming soon**).
+
+
 ## **August 2019**
 
 * I am visiting [James Noble](https://ecs.victoria.ac.nz/Main/JamesNoble) and
   his research group at Victoria University of Wellington from August until end
   of September.
 
-* Paper accepted at [International Conference on Software Language Engineering
+* Paper accepted at the [International Conference on Software Language Engineering
   (SLE)](https://conf.researchr.org/home/sle-2019#About):
   *Developing a Monadic Type Checker for an Object-Oriented Language
   (Experience Report)* by [Elias Castegren](https://eliasc.github.io/) and myself.
