@@ -39,7 +39,7 @@ from the paper. All the functions are documented, and the artefact guides the
 reader through the code. The type checker can be tested interactively from a
 REPL, and we include examples of different programs and how to type check them
 using different versions of the type checker, and their expected
-result. [Preprint here.](/files/sle19-preprint.pdf)
+result.
 
 
 ## **August 2019**
@@ -52,6 +52,7 @@ result. [Preprint here.](/files/sle19-preprint.pdf)
   (SLE)](https://conf.researchr.org/home/sle-2019#About):
   *Developing a Monadic Type Checker for an Object-Oriented Language
   (Experience Report)* by [Elias Castegren](https://eliasc.github.io/) and myself.
+  [Preprint here.](/files/sle19-preprint.pdf)
 
 ## **July 2019**
 
