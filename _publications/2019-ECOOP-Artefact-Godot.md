@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ecoop-artefact-godot
 date: 2019-07-18
 venue: ECOOP
-paperurl: 'https://github.com/kikofernandez/ecoop-artefact-godot'
+paperurl: 'http://drops.dagstuhl.de/opus/volltexte/2019/10778/'
 ---
 
 This artifact contains an implementation of data-flow futures in terms of

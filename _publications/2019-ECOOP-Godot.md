@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ecoop-godot
 date: 2019-07-18
 venue: ECOOP
-paperurl: 'https://doi.org/10.4230/LIPIcs.ECOOP.2019.21'
+paperurl: 'http://drops.dagstuhl.de/opus/volltexte/2019/10794/'
 ---
 
 

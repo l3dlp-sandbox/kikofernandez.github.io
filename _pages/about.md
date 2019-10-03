@@ -22,11 +22,18 @@ and DisCoTec 2018 – the latter representing the Best Paper award of the series
 of conferences within DisCoTec in the year 2018 (http://www.it.uu.se/about
 us/awards).
 
-- **Scholarly Output.** In my 4 years of study since joining
-Uppsala University, I have 7 publications that range from recognised conferences
-in my field, to journals and an educational symposium on the design of a
-software design course. I also have publications which are not co-authored by my
-adviser.
+- **One Distinguished Artefact Award** Scholarly artefact on which I am the main
+author have won the Distinguished Artefact Award at the European Conference on
+Object-Oriented Programming 2019 (ECOOP'19) for our artefact on the
+implementation of Control- and Data-Flow Futures ([paper
+here](http://drops.dagstuhl.de/opus/volltexte/2019/10794/), [artefact
+here](http://drops.dagstuhl.de/opus/volltexte/2019/10778/)).
+
+- **Scholarly Output.** In my 4 years of study since joining Uppsala University,
+I have 9 publications that range from recognised conferences in my field, to
+journals, 2 artefact publications, and an educational symposium on the design of
+a software design course. I also have publications which are not co-authored by
+my adviser.
 
 ### Dedication to Teaching Excellence
 
@@ -66,9 +73,13 @@ University. This led to the organisation of the Ada Lovelace celebration in
 equality. We also successfully got a 30 000 SEK scholarship from ID24 to promote
 gender equality.
 
-- **Conference Volunteer Work.** I am currently serving as publicity chair for
-  the [DisCoTec conferences](http://www.discotec.org/2019/#organising-committee) and
-  [Student Volunteering co-chair at SPLASH'19](https://2019.splashcon.org/committee/splash-2019-organizing-committee).
+- **Conference Volunteer Work.** I am served as publicity chair for the
+  [DisCoTec conferences in
+  2019](http://www.discotec.org/2019/#organising-committee), [Student
+  Volunteering co-chair at
+  SPLASH'19](https://2019.splashcon.org/committee/splash-2019-organizing-committee),
+  and as a member of the programmer committee at the Workshop on Programming
+  based on Actors, Agents, and Decentralized Control (AGERE!).
 
 - **Advocating for Privacy.** I am part of a student chapter in Uppsala that
 promotes privacy and security technologies, ranging from topics such as email
