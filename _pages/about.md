@@ -73,7 +73,7 @@ University. This led to the organisation of the Ada Lovelace celebration in
 equality. We also successfully got a 30 000 SEK scholarship from ID24 to promote
 gender equality.
 
-- **Conference Volunteer Work.** I am served as publicity chair for the
+- **Conference Volunteer Work.** I served as publicity chair for the
   [DisCoTec conferences in
   2019](http://www.discotec.org/2019/#organising-committee), [Student
   Volunteering co-chair at
