@@ -22,12 +22,14 @@ and DisCoTec 2018 – the latter representing the Best Paper award of the series
 of conferences within DisCoTec in the year 2018 (http://www.it.uu.se/about
 us/awards).
 
-- **One Distinguished Artefact Award** Scholarly artefact on which I am the main
-author have won the Distinguished Artefact Award at the European Conference on
-Object-Oriented Programming 2019 (ECOOP'19) for our artefact on the
-implementation of Control- and Data-Flow Futures ([paper
+- **Two Distinguished Artefact Award** Scholarly artefacts that I have co-author
+have been recognised with the Distinguished Artefact Award at the European
+Conference on Object-Oriented Programming 2019 (ECOOP'19) for our artefact on
+the implementation of Control- and Data-Flow Futures ([paper
 here](http://drops.dagstuhl.de/opus/volltexte/2019/10794/), [artefact
-here](http://drops.dagstuhl.de/opus/volltexte/2019/10778/)).
+here](http://drops.dagstuhl.de/opus/volltexte/2019/10778/)), and at the
+International Conference on Software Language Engineering (SLE'19) for our artefact
+on the design and implementation of a monadic type checker.
 
 - **Scholarly Output.** In my 4 years of study since joining Uppsala University,
 I have 9 publications that range from recognised conferences in my field, to

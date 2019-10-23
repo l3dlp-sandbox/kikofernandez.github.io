@@ -6,6 +6,25 @@ author_profile: true
 
 ## **October 2019**
 
+
+* Our paper [Developing a Monadic Type Checker for an Object-Oriented Language:
+  An Experience Report](https://doi.org/10.1145/3357766.3359545) received the
+  Distinguished Artifact Award at the [ACM SIGPLAN International Conference on
+  Software Language Engineering
+  (SLE'19)](https://conf.researchr.org/home/sle-2019).  This is a joint effort
+  with [Elias Castegren](https://eliasc.github.io/). In a tutorial-like style,
+  the paper explains how to design a monadic type checker in Haskell. The
+  artifact contains an incremental implementation of the monadic type
+  checker. This design is based on the work performed on the [Encore
+  compiler](https://github.com/parapluu/encore). We are grateful to [Stephan
+  Brandauer](https://www.linkedin.com/in/stephan-brandauer/), [Tobias
+  Wrigstad](http://wrigstad.com/), [Dave
+  Clarke](https://www.linkedin.com/in/davegclarke/), and [Albert Mingkun
+  Yang](http://albertnetymk.github.io/) who influenced the design of the Encore
+  compiler.
+
+  <img src="/files/SLEAward.jpg" style="width: 40%;" />
+
 * As part of my research visit at Victoria University of New Zealand, we have
 started a collaboration with researchers from Victoria University, James Noble
 and Isaac O. Gariano.  This collaboration will extend the work from our [VMIL
@@ -56,8 +75,9 @@ result.
 
 ## **July 2019**
 
-* Our ECOOP'19 paper, [Godot: All the Benefits of Implicit and Explicit Futures](https://2019.ecoop.org/track/ecoop-2019-artifacts)
-  received the Distinguished Artefact Award.
+* Our ECOOP'19 paper, [Godot: All the Benefits of Implicit and Explicit
+  Futures](https://2019.ecoop.org/track/ecoop-2019-artifacts) received the
+  Distinguished Artefact Award.
 
   <img src="/files/ECOOPAward.jpg" style="width: 40%;" />
 
