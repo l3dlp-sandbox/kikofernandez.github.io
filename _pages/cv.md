@@ -99,8 +99,8 @@ Community Service
   Lovelace celebration in 2017, where we brought international speakers and
   researchers to promote gender equality (http://uu.acm.org).
 
-* I have been elected as publicity chair for the group of conferences DisCoTec 2019
-  (http://www.discotec.org/2019/\#organising-committee).
+* I have been elected as publicity chair for the group of conferences DisCoTec 2019, 2020,
+  and Student Volunteer co-chair of SPLASH'19.
 
 * I am part of a student chapter that promotes privacy and security
   technologies, ranging from topics such as email encryption to how to surf the
