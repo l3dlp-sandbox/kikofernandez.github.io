@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: plresearcher.com
+Token: 1686f69fc26dc266e96151c7c015dbaef93df7b0e4a3c598580a0add78356736
