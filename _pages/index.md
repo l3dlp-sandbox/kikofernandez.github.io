@@ -4,6 +4,16 @@ title: News
 author_profile: true
 ---
 
+## **January 2020**
+
+* Finished a series of articles explaining how to use Pandoc, from producing
+  epubs and websites, to writing research papers and software artifacts:
+
+  * [Convert files at the command line with Pandoc](https://opensource.com/article/18/9/intro-pandoc)
+  * [Turn your book into a website and an ePub using Pandoc](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
+  * [How to use Pandoc to produce a research paper](https://opensource.com/article/18/9/pandoc-research-paper)
+  * [Automating the creation of research artifacts](https://opensource.com/article/20/1/automating-documentation)
+
 ## **October 2019**
 
 
