@@ -6,6 +6,13 @@ author_profile: true
 
 ## **January 2020**
 
+* I am honored to be part of the [ECOOP'20 Artifact Evaluation
+  Committee](https://2020.ecoop.org/track/ecoop-2020-artifacts).
+
+* Gave a talk about how to produce research artifacts, covering the motivation,
+  and giving examples of my experience so far. I gave this talk to the CsD
+  Department in IT in Uppsala University ([slide here](files/HowToCreateGreatArtifact.pdf)).
+
 * Finished a series of articles explaining how to use Pandoc, from producing
   epubs and websites, to writing research papers and software artifacts:
 
