@@ -4,6 +4,11 @@ title: News
 author_profile: true
 ---
 
+## **June 2020**
+
+* I am honored to be a program commitee member of the
+  [International Conference on Code Quality (ICCQ)](https://www.iccq.ru/).
+
 ## **January 2020**
 
 * I am honored to be part of the [ECOOP'20 Artifact Evaluation

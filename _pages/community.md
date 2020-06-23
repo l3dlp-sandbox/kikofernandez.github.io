@@ -9,7 +9,9 @@ social level.
 
 ## **Research Community**
 
-- Publicity chair of DisCoTec 2020
+- [Program committee member of ICCQ](https://www.iccq.ru/)
+- [Artifact Evaluation Committee of ECOOP'20](https://2020.ecoop.org/track/ecoop-2020-artifacts)
+- [Publicity chair of DisCoTec 2020](https://www.discotec.org/2020/#organising-committee)
 - [Programme Committee of the AGERE'19 workshop, co-located with SPLASH](https://2019.splashcon.org/home/agere-2019)
 - [Publicity chair of DisCoTec 2019](http://www.discotec.org/2019/#organising-committee).
 - [Student Volunteer chair of SPLASH 2019](https://2019.splashcon.org/profile/kikofernandezreyes).
