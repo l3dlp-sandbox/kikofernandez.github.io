@@ -9,6 +9,14 @@ author_profile: true
 * I am honored to be a program commitee member of the
   [International Conference on Code Quality (ICCQ)](https://www.iccq.ru/).
 
+## **April 2020**
+
+* I presented the paper [Developing a Monadic Type Checker for an Object-Oriented
+  Language](https://doi.org/10.1145/3357766.3359545) for which I am a co-author
+  at the [Func Prog Sweden
+  MeetUp](https://www.meetup.com/Func-Prog-Sweden/events/269811606/), which was
+  also the first time that I presented in an online event.
+
 ## **January 2020**
 
 * I am honored to be part of the [ECOOP'20 Artifact Evaluation
