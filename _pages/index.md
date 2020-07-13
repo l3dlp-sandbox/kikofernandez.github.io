@@ -14,6 +14,11 @@ author_profile: true
   The paper also shows how programs that may contain data-races may interact with
   data-race free programs, while maintaining data-race freedom.
 
+* Our paper *Gradual Capabilities for Data Race Freedom** (based on
+  *Dalarna: A Simplistic Capability-Based Dynamic Language Design For
+  Data Race Freedom*) has been rejected from OOPSLA 2020 (but we got really good feedback
+  to continue improving our work).
+
 ## **June 2020**
 
 * I am honored to be a program commitee member of the
