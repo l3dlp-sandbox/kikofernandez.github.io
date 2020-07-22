@@ -8,15 +8,15 @@ author_profile: true
 
 * Our paper *Dalarna: A Simplistic Capability-Based Dynamic Language Design For
   Data Race Freedom* has been accepted at [22st Workshop on Formal Techniques for
-  Java-like Programs (FTfJP)](https://2020.ecoop.org/track/FTfJP-2020-papers). In
+  Java-like Programs (FTfJP)](https://2020.ecoop.org/details/FTfJP-2020-papers/2/Dalarna-A-Simplistic-Capability-Based-Dynamic-Language-Design-For-Data-Race-Freedom). In
   this paper, we investigate the addition of gradual capabilities to a dynamic
   language (e.g., JavaScript- or Python-like) and show how to maintain data-race freedom.
   The paper also shows how programs that may contain data-races may interact with
   data-race free programs, while maintaining data-race freedom.
 
-* Our paper *Gradual Capabilities for Data Race Freedom** (based on
-  *Dalarna: A Simplistic Capability-Based Dynamic Language Design For
-  Data Race Freedom*) has been rejected from OOPSLA 2020 (but we got really good feedback
+* Our paper *Gradual Capabilities for Data Race Freedom* (based on
+  *[Dalarna: A Simplistic Capability-Based Dynamic Language Design For
+  Data Race Freedom](https://2020.ecoop.org/details/FTfJP-2020-papers/2/Dalarna-A-Simplistic-Capability-Based-Dynamic-Language-Design-For-Data-Race-Freedom)*) has been rejected from OOPSLA 2020 (but we got really good feedback
   to continue improving our work).
 
 ## **June 2020**
