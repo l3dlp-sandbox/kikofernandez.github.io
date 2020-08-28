@@ -4,6 +4,13 @@ title: News
 author_profile: true
 ---
 
+## **September 2020**
+
+* I will TA the course Functional Programming I at Uppsala University, where
+  students will learn about functional programming using Haskell.  The course
+  covers functions, recursion, inductive types, polymorphism (type variables and
+  type classes), modules and IO.
+
 ## **July 2020**
 
 * Our paper *Dalarna: A Simplistic Capability-Based Dynamic Language Design For
