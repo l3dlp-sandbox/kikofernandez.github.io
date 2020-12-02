@@ -4,6 +4,19 @@ title: News
 author_profile: true
 ---
 
+## **December 2020**
+
+* My Ph.D. defense has been scheduled to Jan 18, 2021 at 16.00 PM.  [Martin
+  Steffen](https://www.mn.uio.no/ifi/english/people/aca/msteffen/index.html) will
+  be the opponent. The following researchers are part of the evaluation
+  committee: [Elisa Gonzalez Boix (Vrije Universiteit
+  Brussel)](http://soft.vub.ac.be/~egonzale/egonzale/index.html#/Home), [Tjark
+  Weber (Uppsala University)](http://user.it.uu.se/~tjawe125/), [Christoph
+  Reichenbach (Lund University)](http://creichen.net/), and [Mark S. Miller
+  (Agoric)](https://agoric.com/authors/mark-s-miller/).
+
+* I was sub-reviewer of ESOP papers.
+
 ## **September 2020**
 
 * I will TA the course Functional Programming I at Uppsala University, where
