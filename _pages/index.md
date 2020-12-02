@@ -17,6 +17,46 @@ author_profile: true
 
 * I was sub-reviewer of ESOP papers.
 
+## **November 2020**
+
+* I submitted my Ph.D. thesis with title "Abstractions to Control the Future".
+  The abstract follows:
+
+  ```
+  Multicore and manycore computers are the norm nowadays, and users have
+  expectations that their programs can do multiple things concurrently.  To
+  support that, developers use concurrency abstractions such as threads,
+  promises, futures, and/or channels to exchange information.  All these
+  abstractions introduce trade-offs between the concurrency model and the
+  language guarantees, and developers accept these trade-offs for the benefits of
+  concurrent programming.
+
+  Many concurrent languages are multi-paradigm, e.g., mix the functional and
+  object-oriented paradigms. This is beneficial to developers because they can
+  choose the most suitable approach when solving a problem.  From the point of
+  view of concurrency, purely functional programming languages are data-race free
+  since they only support immutable data. Object-oriented languages do not get a
+  free lunch, and neither do multi-paradigm languages that have imperative
+  features.
+
+  The main problem is uncontrolled concurrent access to shared mutable state,
+  which may inadvertently introduce data-races.  A data-race happens when two
+  concurrent memory operations target the same location, at least one of them is
+  a write, and there is no synchronisation operation involved.  Data-races make
+  programs to exhibit (unwanted) non-deterministic behaviour.
+
+  The contribution of this thesis is two-fold. First, this thesis introduces new
+  concurrent abstractions in a purely functional, statically typed programming
+  language (Paper I -- III); these abstractions allow developers
+  to write concurrent control- and delegation-based patterns. Second, this thesis
+  introduces a capability-based dynamic programming model, named Dala,
+  that extends the applicability of the concurrent abstractions to an imperative
+  setting while maintaining data-race freedom (Paper IV). Developers can also
+  use the Dala model to migrate unsafe programs, i.e., programs that may
+  suffer data-races, to data-race free programs.
+  ```
+
+
 ## **September 2020**
 
 * I will TA the course Functional Programming I at Uppsala University, where
