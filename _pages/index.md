@@ -6,6 +6,8 @@ author_profile: true
 
 ## **December 2020**
 
+* As of December 14, I am part of the core banking team at [Klarna](https://www.klarna.com/se/).
+
 * My Ph.D. defense has been scheduled to Jan 18, 2021 at 16.00 PM.  [Martin
   Steffen](https://www.mn.uio.no/ifi/english/people/aca/msteffen/index.html) will
   be the opponent. The following researchers are part of the evaluation
