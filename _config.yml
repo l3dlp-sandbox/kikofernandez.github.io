@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kiko Fernandez-Reyes"
+  name             : "Dr Kiko Fernandez-Reyes"
   avatar           : "kiko_pfc.jpg"
-  bio              : "PhD student in programming languages and main lecturer of the course Advanced Software Design at Uppsala University. Core developer of the Encore programming language."
+  bio              : "Software Engineer at Klarna. Previously, I was part of the programming languages research group at Uppsala University with specialisation in concurrent and functional programming languages, type systems, and formal methods, core developer of the actor-based Encore programming language, and main lecturer of the course Advanced Software Design at Uppsala University."
   location         : "Uppsala"
   employer         :
   googlescholar    : "https://scholar.google.se/citations?user=IS2ax-kAAAAJ&hl=en"
