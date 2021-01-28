@@ -4,6 +4,22 @@ title: News
 author_profile: true
 ---
 
+## **January 2021**
+
+* I successfully defended my Ph.D.
+
+  Opponent:
+  - [Martin Steffen](https://www.mn.uio.no/ifi/english/people/aca/msteffen/index.html)
+
+  Evaluation Committee:
+  - [Elisa Gonzalez Boix (Vrije Universiteit
+  Brussel)](http://soft.vub.ac.be/~egonzale/egonzale/index.html#/Home)
+  - [Tjark Weber (Uppsala University)](http://user.it.uu.se/~tjawe125/)
+  - [Christoph Reichenbach (Lund University)](http://creichen.net/)
+  - Reserve: [Mark S. Miller (Agoric)](https://agoric.com/authors/mark-s-miller/)
+
+- We submitted my last paper to ECOOP :)
+
 ## **December 2020**
 
 * As of December 14, I am part of the core banking team at [Klarna](https://www.klarna.com/se/).
