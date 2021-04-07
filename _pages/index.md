@@ -4,6 +4,24 @@ title: News
 author_profile: true
 ---
 
+## **March 2021**
+
+- Our paper was rejected from ECOOP'21.
+
+- I submitted a talk to CODE BEAM V - Europe, abstract follows:
+
+  ```
+  Documentation is key for smooth communication and synchronisation
+  between teams/clients.  For some time, our team maintained the documentation by
+  hand. This is an error prone task, e.g., it is easy to forget to add fields,
+  examples may be broken over time when fields are deprecated, etc.
+
+  This talks explains our approach towards taming our API documentation by using
+  schema validation and the OpenAPI specification. Among the greatest benefits,
+  we show how we get documentation type-checking, and how we validate
+  request/responses in Erlang with Schema Validation and its integration with OpenAPI.
+  ```
+
 ## **January 2021**
 
 * I successfully defended my Ph.D.
