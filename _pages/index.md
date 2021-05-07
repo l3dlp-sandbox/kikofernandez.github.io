@@ -4,6 +4,13 @@ title: News
 author_profile: true
 ---
 
+## **May 2021**
+
+- My submitted talk to Code BEAM V was not selected; they liked it and my talk is
+  a backup if a speaker cannot make it in the last moment.
+
+- We submitted a paper to Onwards!
+
 ## **March 2021**
 
 - Our paper was rejected from ECOOP'21.
