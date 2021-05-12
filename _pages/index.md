@@ -13,12 +13,12 @@ author_profile: true
 
 - My talk `The Three Little Monads (And Their Friends)` has been accepted to [TheKonferenSE'21](https://thekonferen.se/). Abstract follows:
 
-  ```
-  Once upon a time, mother sent their three little monads to type-check an evil
+```
+Once upon a time, mother sent their three little monads to type-check an evil
 wolf program. Little MonadReader was good at remembering the surrounding environment but the wolf knew how to trick her; little pig MonadError knew when to exit and leave the current task, but the wolf knew that alone little MonadError could not type-check the program by herlself; little pig MonadWriter knew how to aggregate things but not much more. The three little monads learnt that together they can create a powerful yet simple static analysis tool to type-check evil programs. Together with their friends Monoid and Type State, the three little monads know how to forbid the wolf from knocking on their homes.
 
 This talk assumes knowledge of Haskell, three basic monads, and some knowledge / intuition for monad transformers. The goal is to build a type-checker taking inspiration from Purescript and the Encore type-checkers. If time allows, we can dive into type-level computations to type state, which statically forbids unannotated abstract syntax trees to be returned as annotated (type-checked) abstract syntax trees. This technique lends well to any other static analysis, e.g., checking reference uniqueness. Based on the paper 'Developing a monadic type checker for an object-oriented language: an experience report' (https://dl.acm.org/doi/10.1145/3357766.3359545) but going to the core and meat of the problem :)
-  ```
+```
 
 ## **March 2021**
 
