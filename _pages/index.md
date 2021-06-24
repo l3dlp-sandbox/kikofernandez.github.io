@@ -4,10 +4,34 @@ title: News
 author_profile: true
 ---
 
+## **June  2021**
+
+- Our paper "Dala: A Simple Capability-Based Dynamic Language Design For Data
+  Race-Freedom" has been accepted at [Onward! Papers track](https://2021.splashcon.org/track/splash-2021-Onward-papers).
+  Abstract follows:
+
+  ```
+  Dynamic languages like Erlang, Clojure, JavaScript, and E adopted data-race
+  freedom by design. To enforce data-race freedom, these languages either deep
+  copy objects during actor (thread) communication or proxy back to their owning
+  thread. We present Dala, a simple programming model that ensures data-race
+  freedom while supporting efficient inter-thread communication. Dala is a
+  dynamic, concurrent, capability-based language that relies on three core
+  capabilities: immutable values can be shared freely; isolated mutable objects
+  can be transferred between threads but not aliased; local objects can be
+  aliased within their owning thread but not dereferenced by other
+  threads. Objects with capabilities can co-exist with unsafe objects, that are
+  unchecked and may suffer data races, without compromising the safety of safe
+  objects. We present a formal model of Dala, prove data race-freedom and state
+  and prove a dynamic gradual guarantee. These theorems guarantee data
+  race-freedom when using safe capabilities and show that the addition of
+  capabilities is semantics preserving modulo permission and cast errors.
+  ```
+
 ## **May 2021**
 
-- My submitted talk to Code BEAM V was not selected; they liked it and my talk is
-  a backup if a speaker cannot make it in the last moment.
+- My submitted talk to Code BEAM V was not selected; they liked it and my talk has been scheduled as
+  a backup talk, i.e.,  if a speaker cannot present, then I am next in line to present.
 
 - We submitted a paper to Onwards!
 
