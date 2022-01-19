@@ -7,7 +7,7 @@ author_profile: true
 ## **Jan 2022**
 
 - My KonferenSE talk "The Three Little Monadic Pigs And Their Friends" is
-  available on YouTube [here|https://www.youtube.com/watch?v=mXUADvCf5-Y].
+  available on YouTube [here](https://www.youtube.com/watch?v=mXUADvCf5-Y).
 
 - I am honored to be a program commitee member of the 21st Edition of the Erlang
   Workshop that will be organized as a co-located event of [ICFP
