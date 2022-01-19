@@ -4,6 +4,16 @@ title: News
 author_profile: true
 ---
 
+## **Jan 2022**
+
+- My KonferenSE talk "The Three Little Monadic Pigs And Their Friends" is
+  available on YouTube [here|https://www.youtube.com/watch?v=mXUADvCf5-Y].
+
+- I am honored to be a program commitee member of the 21st Edition of the Erlang
+  Workshop that will be organized as a co-located event of [ICFP
+  2022](https://icfp22.sigplan.org/).
+
+
 ## **June  2021**
 
 - Our paper "Dala: A Simple Capability-Based Dynamic Language Design For Data
