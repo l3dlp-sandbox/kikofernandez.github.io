@@ -4,6 +4,14 @@ title: News
 author_profile: true
 ---
 
+## **Feb 2022**
+
+- The pull request that I co-submitted with Draft-06 of the Schema Validation library for Erlang
+  has been accepted ([here](https://github.com/for-GET/jesse/pull/108))
+
+- I will be part of the committee of the Typed Functional community in Klarna, where we will set
+  new directives for improving the use of typed functional languages at Klarna.
+
 ## **Jan 2022**
 
 - My KonferenSE talk "The Three Little Monadic Pigs And Their Friends" is
