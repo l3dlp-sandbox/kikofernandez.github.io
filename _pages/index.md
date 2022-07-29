@@ -4,6 +4,12 @@ title: News
 author_profile: true
 ---
 
+## **July 2022**
+
+- I am honored to be a program commitee member of the Onward! Papers conference
+ that will be organized as a co-located event of [SPLASH
+  2022](https://2022.splashcon.org/track/splash-2022-Onward-papers).
+
 ## **Feb 2022**
 
 - The pull request that I co-submitted with Draft-06 of the Schema Validation library for Erlang
