@@ -4,6 +4,16 @@ title: News
 author_profile: true
 ---
 
+## **December 2022**
+
+- I am honored to be a program commitee member of the [Code BEAM Lite Stockholm](https://codebeamstockholm.com/).
+
+## **November 2022**
+
+- I am honored to co-chair the Erlang 2023 Workshop
+ that will be organized as a co-located event of [ICFP
+  2023](https://icfp23.sigplan.org/home/erlang-2023).
+
 ## **July 2022**
 
 - I am honored to be a program commitee member of the Onward! Papers conference
@@ -13,7 +23,7 @@ author_profile: true
 ## **Feb 2022**
 
 - The pull request that I co-submitted with Draft-06 of the Schema Validation library for Erlang
-  has been accepted ([here](https://github.com/for-GET/jesse/pull/108))
+  has been accepted ([here](https://github.com/for-GET/jesse/pull/108)).
 
 - I will be part of the committee of the Typed Functional community in Klarna, where we will set
   new directives for improving the use of typed functional languages at Klarna.
