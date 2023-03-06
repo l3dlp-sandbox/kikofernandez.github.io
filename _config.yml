@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Dr Kiko Fernandez-Reyes"
   avatar           : "kiko_pfc.jpg"
-  bio              : "Software Engineer at Klarna. Previously, I was part of the programming languages research group at Uppsala University with specialisation in concurrent and functional programming languages, type systems, and formal methods, core developer of the actor-based Encore programming language, and main lecturer of the course Advanced Software Design at Uppsala University."
+  bio              : "Erlang OTP core member. Ex-Software Engineer@Klarna. Previously, PhD student researching a concurrent, actor-based programming language, and main lecturer of the course Advanced Software Design at Uppsala University. Ex-Software Engineer@Trifork"
   location         : "Uppsala"
   employer         :
   googlescholar    : "https://scholar.google.se/citations?user=IS2ax-kAAAAJ&hl=en"
-  email            : "kikofernandez@acm.org"
+  email            : "kiko@erlang.org"
   uri              :
   bitbucket        :
   codepen          :
