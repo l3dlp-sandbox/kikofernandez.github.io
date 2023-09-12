@@ -4,6 +4,12 @@ title: News
 author_profile: true
 ---
 
+## **September 2023**
+
+- I am honoured to be judge of the [SpawnFest 2023
+  competition](https://spawnfest.org/), where teams code for 48 h the best
+  BEAM-based apps they can.
+
 ## **December 2022**
 
 - I am honored to be a program commitee member of the [Code BEAM Lite Stockholm](https://codebeamstockholm.com/).
