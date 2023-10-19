@@ -4,6 +4,12 @@ title: News
 author_profile: true
 ---
 
+## **October 2023**
+
+- Happy to announce that I will be the industrial supervisor of a master student
+  from Uppsala University who will work on type migration from structural success typing
+  to a nominal gradual type system
+
 ## **September 2023**
 
 - I am honoured to be judge of the [SpawnFest 2023
