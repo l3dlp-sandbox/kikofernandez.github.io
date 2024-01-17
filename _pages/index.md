@@ -4,6 +4,16 @@ title: News
 author_profile: true
 ---
 
+## **January 2024**
+
+- Submitted together with Laura Voinea our Erlang 2024 workshop proposal to ICFP.
+
+## **December 2023**
+
+- Ingela A. Andin and myself, both working on OTP, where invited to BEAM Radio to talk
+  about the Erlang programming language, how we started, and how we work in the OTP team
+  maintaining and developing the Erlang programming language.
+  
 ## **October 2023**
 
 - Happy to announce that I will be the industrial supervisor of a master student
