@@ -90,5 +90,3 @@ venue: ACM SIGPLAN Erlang Workshop (Erlang)
         </li>
     </ul>
 </div>
-<link rel="stylesheet"
-    href="https://dl.acm.org/pb-assets/styles/authorizer.css" />

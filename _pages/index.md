@@ -4,6 +4,12 @@ title: News
 author_profile: true
 ---
 
+## **March 2024**
+
+- Erlang 2024 workshop proposal accepted to be co-located with ICFP.
+- I am happy to honoured to be PC member of FUNARCH 2024
+
+
 ## **January 2024**
 
 - Submitted together with Laura Voinea our Erlang 2024 workshop proposal to ICFP.
@@ -115,8 +121,7 @@ author_profile: true
         </li>
     </ul>
 </div>
-<link rel="stylesheet"
-    href="https://dl.acm.org/pb-assets/styles/authorizer.css" />
+
 
 ## **December 2022**
 
