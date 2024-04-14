@@ -4,11 +4,16 @@ title: News
 author_profile: true
 ---
 
+## **April 2024**
+
+- Adolfo Neto interviewed me in his [YouTube Channel](https://www.youtube.com/@elixiradolfont/videos) for my role as co-chair of the Erlang Workshop 2024. 
+- I presented by talk "Ericsson's Forgotten Open Source Gem" at the Ericsson Developer Conference 2024, chosen among more than 500 submissions.
+
 ## **March 2024**
 
 - Erlang 2024 workshop proposal accepted to be co-located with ICFP.
 - I am happy to honoured to be PC member of FUNARCH 2024
-
+- We submitted a joint EU project proposal together with industrial and academic partners to improve the security and efficiency of the Erlang programming language (some proposals work on the Erlang language and other optimisations at the BEAM level).
 
 ## **January 2024**
 
