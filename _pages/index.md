@@ -7,7 +7,7 @@ author_profile: true
 ## **April 2024**
 
 - Adolfo Neto interviewed me in his [YouTube Channel](https://www.youtube.com/@elixiradolfont/videos) for my role as co-chair of the Erlang Workshop 2024. 
-- I presented by talk "Ericsson's Forgotten Open Source Gem" at the Ericsson Developer Conference 2024, chosen among more than 500 submissions.
+- I presented "Ericsson's Forgotten Open Source Gem" at the Ericsson Developer Conference 2024, chosen among more than 500 submissions.
 
 ## **March 2024**
 
