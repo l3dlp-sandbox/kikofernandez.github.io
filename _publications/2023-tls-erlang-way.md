@@ -10,5 +10,5 @@ The Transport Layer Security (TLS) protocol is one of the most used protocols to
 
 This paper describes an overview of the TLS protocol in the context of Erlang. We explain Erlang/OTP's TLS protocol design and implementation, optimizations, a benchmark evaluation of the Erlang TLS protocol implementation against previous Erlang/OTP's TLS implementations, and a benchmark comparison against the Go's TLS implementation.
 
- Download: https://dl.acm.org/doi/10.1145/3609022.3609414?cid=99659211382
+ Download: [https://dl.acm.org/doi/10.1145/3609022.3609414?cid=99659211382]
  
