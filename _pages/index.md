@@ -4,6 +4,22 @@ title: News
 author_profile: true
 ---
 
+## **February 2025**
+
+- Talk proposal submitted for the internal Ericsson conference, titled: "Making Erlang/OTP Cyber Resilient Compliant".
+
+## **November 2024**
+
+- I am honoured to co-chair the Erlang Workshop for 2025 together with Laura Voinea and Ákos Hajdu.
+
+## **September 2024**
+
+- Co-presentation at the [Nordic Software Security Summit](https://nsss.se/y2024/talks/erlang-ecosystem/) about the efforts of Erlang Ecosystem Foundation and Ericsson towards better cybersecurity in the Erlang Ecosystem
+
+## **May 2024**
+
+- Ingela A. Andin from Erlang/OTP team and myself, co-presented the keynote at [Code BEAM Lite Stockholm 2024](https://codebeamstockholm.com/archive/may_2024/) with title "Why Erlang!?".
+
 ## **April 2024**
 
 - Adolfo Neto interviewed me in his [YouTube Channel](https://www.youtube.com/@elixiradolfont/videos) for my role as co-chair of the Erlang Workshop 2024. 
